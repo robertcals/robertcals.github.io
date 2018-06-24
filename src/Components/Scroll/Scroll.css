@@ -1,0 +1,17 @@
+.scrollBack{
+	background:transparent;
+	/*min-height: 100%;*/
+	/*background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;*/
+
+}
+.scrollStyle{
+	
+ 	/*box-shadow: -5px -5px 5px rgba(255,255,0,0.5) ,5px 5px 5px rgba(255,255,0,0.5);*/
+ 	overflow-y: scroll;
+ 	/*border: 2px solid #000;*/
+ 	height: 60vh;
+ 	padding: 10px;
+ }
